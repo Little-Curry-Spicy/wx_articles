@@ -1,7 +1,7 @@
 # 公众号文章库
 
 面向**技术人员**的公众号，主要方向：**Web3** 与 **AI**。
-
+sk-b59a6341b5504a7a976905c7b4e45d8f
 ## 定位
 
 - 受众：技术人员（开发、产品、技术管理）
@@ -17,7 +17,9 @@
 | 3 | 代币是啥、ERC20 是啥、怎么「创建一个代币」？ | 第三篇-代币与ERC20-怎么创建一个代币.md |
 | 4 | 现货与合约：做多、做空、保证金，交易所咋挣钱？ | 第四篇-现货与合约-做多做空与交易所怎么挣钱.md |
 | 5 | Web3 常见应用：Uniswap、Polymarket、Aave 都是干啥的？ | 第五篇-Web3常见应用-Uniswap-Polymarket-Aave.md |
-
+| 6 | 您付的钱去哪了？一文读懂平台收费与分配 | 第六篇-平台收费与分配.md |
+| 7 | 钱包、私钥、助记词与签名：连上就能用，背后是啥？ | 第七篇-钱包私钥助记词与签名.md |
+| 8 | 授权方式的更迭：从 ERC20 到 Permit2 | 第八篇-授权方式更迭-从ERC20到Permit2.md |
 ### AI 系列（`AI/` 目录）
 
 | 序号 | 标题 | 文件名 |
@@ -28,7 +30,10 @@
 | 4 | 让 AI 能调用「别处」的工具：MCP 协议入门 | AI/第四篇-MCP协议入门-跨进程调用工具.md |
 | 5 | 让大模型「先查资料再回答」：RAG 与向量检索入门 | AI/第五篇-RAG与向量检索入门.md |
 | 6 | 动手做一个「日记 RAG」：Milvus + 通义，从建库到问答 | AI/第六篇-日记RAG-Milvus与通义从建库到问答.md |
-
+| 7 | 给小说建一个「先查书再回答」的 AI：EPUB + Milvus 实战 | AI/第七篇-小说RAG-EPUB与Milvus从建库到问答.md |
+| 8 | LangChain 输出解析常用方法 | AI/第八篇-LangChain-输出解析常用方法.md |
+| 9 | LangChain 模板化 Prompt：PromptTemplate、ChatPromptTemplate 与多轮对话 | AI/第九篇-LangChain模板化Prompt-PromptTemplate与ChatPromptTemplate.md |
+| 10 | 用 n8n 做一个「RSS → AI 总结 → 飞书推送」的小工具 | AI/第十篇-n8n搭建RSS-AI总结-飞书推送.md |
 ## 合约示例
 
 | 说明 | 路径 |
